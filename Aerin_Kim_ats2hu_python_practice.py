@@ -7,12 +7,14 @@
 #Date: 9/6/2026
 #Generative AI Statement: This assignment was assisted by ChatGPT-5.6 Luna on September 6, 2026. ChatGPT-5.6 Luna was used to explain the prompt in Problem 1 and to address errors in importing the library for Problem 3.
 
+
 # %% ###########################################################
 # Problem 1: Practice writing pseudocode
 
 # Write pseudocode that will input a integer N and output the sum of the first N numbers in the fibonacci sequence.
 # Fibonacci sequence starts: 0, 1, 1, 2, 3, 5, 8, 13, 21, ...
 # Example: If N = 5, the output should be 0 + 1 + 1 + 2 + 3 = 7
+
 
 """ # you can use three double-quotes to write multi-line comments
 
@@ -36,6 +38,7 @@ OUTPUT total
 
 
 """
+
 
 # %% ###########################################################
 # Problem 2: Comment your code
@@ -65,6 +68,7 @@ while count < N:
     count = count + 1
 
 print(total)
+
 
 # %% ###########################################################
 # Problem 3: Using common Python libraries
