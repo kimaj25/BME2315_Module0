@@ -5,7 +5,7 @@
 
 #Name: Aerin Kim
 #Date: 9/6/2026
-# Assignment: 01
+#Assignment: 01
 #Generative AI Statement: This assignment was assisted by ChatGPT-5.6 Luna on September 6, 2026. ChatGPT-5.6 Luna was used to explain the prompt in Problem 1 and to address errors in importing the library for Problem 3.
 
 
@@ -106,6 +106,8 @@ def summed_sequence(N):
 
         a = b
         b = next_value
+
+        count = count + 1
 
     return total
 
